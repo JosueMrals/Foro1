@@ -79,3 +79,7 @@ Puedes dejar marcada la casilla Start Android Studio para iniciarlo en este mome
 > *En cualquier caso, terminaremos el asistente haciendo clic sobre el botón Finish.*
 <img src="Medios\13.PNG"/>
 
+## Recomendacion
+
+Android Studio es algo de suma importancia en nuestra preparacion universitaria asi que es de mucho interes aprender y dominar todos sus aspectos. Ya era de conocimiento de que hay que tener un equipo con unas caracteristicas algo fuertes y competentes para poder trabajar en este ambito con esta aplicaciones, asi que es un contratiempo trabajar con equipos de baja calidad y seria algo obvio que trabajaramos con equipos en los cuales se pueda utilizar todas las herramientas que tiene este programa, quizas asi se domine y aprenda lo maximo posible.
+
